@@ -90,7 +90,7 @@ Reusable models I've developed from experience — available for anyone building
 2011 ──► Java & Lotus Notes Developer (Project Engineer)
 2012 ──► SAP CRM Functional Consultant
 2013 ──► Technical Lead – SAP CRM & Hybris Billing (BRIM)  [Wipro]
-2017 ──► Application Architect – CX & SAP Integration        [Wipro → Whirlpool]
+2017 ──► Application Architect – CX & SAP Integration        [Wipro]
 2020 ──► Solutions Architect – Consumer Experience           [Whirlpool]
 2021 ──► B2B eCommerce Portfolio Lead                        [Whirlpool]
 2021 ──► D2C IT Manager – DevSecOps & Quality Engineering    [Whirlpool]
@@ -104,7 +104,7 @@ Reusable models I've developed from experience — available for anyone building
 ## Currently Exploring
 
 - 🎓 Completing MBA at **Gies College of Business, UIUC** (Business Analytics + Digital Marketing)
-- 🤖 Applying **GenAI to content operations** — reducing manual effort in PXM workflows
+- 🤖 Applying **GenAI to content operations** reducing manual effort in PXM workflows
 - 📊 Building frameworks around **AI-driven product data governance**
 - 🔍 Open to senior leadership roles across **enterprise, mid-market, and consulting** — anywhere my experience in commerce + product data + platform leadership creates outsized value
 
@@ -112,7 +112,7 @@ Reusable models I've developed from experience — available for anyone building
 
 ## Let's Connect
 
-If you're building something in digital commerce, PXM, or enterprise platform strategy — or if you're recruiting for a senior role in this space — I'd like to talk.
+If you're building something in digital commerce, PXM, or enterprise platform strategy or if you're looking for a senior role in this space.
 
 📧 [satyendra_job@hotmail.com](mailto:satyendra_job@hotmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/satyendrakanjilal-22485925)
