@@ -12,9 +12,9 @@
 
 ## Who I Am
 
-I'm a **15+ year technology and business leader** at the intersection of enterprise digital commerce, product data, and customer experience. My career spans from hands-on engineering to Fortune 500 IT leadership — giving me a rare combination: I can architect a system *and* lead the people who build it.
+I'm a **15+ year technology and business leader** at the intersection of enterprise digital commerce, product data, and customer experience. My career spans from hands-on engineering to Fortune 500 IT leadership giving me a rare combination: I can architect a system *and* lead the people who build it.
 
-At **Whirlpool Corporation**, I lead the IT teams responsible for go-to-market product experience across B2C and B2B channels — managing a portfolio that spans 1,000+ SKUs across 5 product categories, integrated with major retailers like Amazon, Lowe's, and Home Depot, as well as D2C platforms.
+At **Whirlpool Corporation**, I lead the IT teams responsible for go-to-market product experience across B2C and B2B channels managing a portfolio that spans 1,000+ SKUs across 5 product categories, integrated with major retailers like Amazon, Lowe's, and Home Depot, as well as D2C platforms.
 
 I don't just manage teams. I build capabilities that outlast my tenure.
 
